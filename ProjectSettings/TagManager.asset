@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - House_Trigger
+  - Fire
+  - ChangeCamera_Street
+  - Street_Line1
+  - Street_Line2
+  - ChangeCamera_Desert
+  - Desert_Trigger_Jump
+  - Desert_Trigger_Sit
+  - Desert_Trigger_JumpFast
+  - ChangeCamera_Park
+  - Park_Trigger_Sit
+  - Park_Trigger_Jump
+  - ChangeCamera_Apartment
+  - Apartment_Trigger_Jump
+  - ChangeCamera_Moze
+  - Moze_Trigger_Jump
+  - ParkTree_Sit
+  - ParkTree_Jump
+  - The_End
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Things
+  - Car
+  - Cat
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

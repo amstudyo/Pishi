@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: c599252e7441351459610e29deaca096
+timeCreated: 1440429138
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: boxes1
+    100002: camera
+    100004: chah
+    100006: darbast
+    100008: door
+    100010: jadvaltaki
+    100012: //RootNode
+    100014: moving
+    100016: museumchallengejump
+    100018: museumchallengesit
+    100020: takhte3
+    100022: takhte3.001
+    100024: tire
+    100026: tirebargh1.001
+    100028: trash
+    100030: tree6.001
+    100032: tree6.001_MeshPart0
+    100034: tree6.001_MeshPart1
+    100036: tree6.001_MeshPart2
+    100038: tree6.001_MeshPart3
+    100040: tree6.001_MeshPart4
+    100042: tree6.001_MeshPart5
+    100044: Point.000
+    100046: Point.001
+    100048: Point.002
+    100050: Point.003
+    100052: Point.004
+    100054: Point.005
+    100056: Point.006
+    100058: Point.007
+    400000: boxes1
+    400002: camera
+    400004: chah
+    400006: darbast
+    400008: door
+    400010: jadvaltaki
+    400012: //RootNode
+    400014: moving
+    400016: museumchallengejump
+    400018: museumchallengesit
+    400020: takhte3
+    400022: takhte3.001
+    400024: tire
+    400026: tirebargh1.001
+    400028: trash
+    400030: tree6.001
+    400032: tree6.001_MeshPart0
+    400034: tree6.001_MeshPart1
+    400036: tree6.001_MeshPart2
+    400038: tree6.001_MeshPart3
+    400040: tree6.001_MeshPart4
+    400042: tree6.001_MeshPart5
+    400044: Point.000
+    400046: Point.001
+    400048: Point.002
+    400050: Point.003
+    400052: Point.004
+    400054: Point.005
+    400056: Point.006
+    400058: Point.007
+    2300000: boxes1
+    2300002: chah
+    2300004: darbast
+    2300006: door
+    2300008: jadvaltaki
+    2300010: museumchallengejump
+    2300012: museumchallengesit
+    2300014: takhte3
+    2300016: takhte3.001
+    2300018: tire
+    2300020: tirebargh1.001
+    2300022: trash
+    2300024: tree6.001_MeshPart0
+    2300026: tree6.001_MeshPart1
+    2300028: tree6.001_MeshPart2
+    2300030: tree6.001_MeshPart3
+    2300032: tree6.001_MeshPart4
+    2300034: tree6.001_MeshPart5
+    3300000: boxes1
+    3300002: chah
+    3300004: darbast
+    3300006: door
+    3300008: jadvaltaki
+    3300010: museumchallengejump
+    3300012: museumchallengesit
+    3300014: takhte3
+    3300016: takhte3.001
+    3300018: tire
+    3300020: tirebargh1.001
+    3300022: trash
+    3300024: tree6.001_MeshPart0
+    3300026: tree6.001_MeshPart1
+    3300028: tree6.001_MeshPart2
+    3300030: tree6.001_MeshPart3
+    3300032: tree6.001_MeshPart4
+    3300034: tree6.001_MeshPart5
+    4300000: tree6.001_MeshPart0
+    4300002: tree6.001_MeshPart1
+    4300004: tree6.001_MeshPart2
+    4300006: tree6.001_MeshPart3
+    4300008: tree6.001_MeshPart4
+    4300010: tree6.001_MeshPart5
+    4300012: takhte3.001
+    4300014: takhte3
+    4300016: tirebargh1.001
+    4300018: darbast
+    4300020: museumchallengesit
+    4300022: museumchallengejump
+    4300024: door
+    4300026: tire
+    4300028: chah
+    4300030: boxes1
+    4300032: trash
+    4300034: jadvaltaki
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 10
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
